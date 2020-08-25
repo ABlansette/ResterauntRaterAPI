@@ -6,7 +6,7 @@ using System.Web;
 
 namespace ResterauntRaterAPI.Areas.HelpPage.Models
 {
-    public class Restaraunt
+    public class Restaurant
     {
         [Key]
         public int ID { get; set; }
